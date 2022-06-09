@@ -1,0 +1,118 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color:aqua;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+h3 {
+  text-align: center;
+  padding: 20px 0;
+  background-color: aquamarine;
+
+}
+p, li {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.informação {
+  height: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+
+}
+
+i{
+  text-align: center;
+}
+
+.info{
+  font-size: 15px;
+  height: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.imagem{
+  font-size: 10px;
+  height: 2em;
+  display: flex;
+  align-items:left;
+  justify-content: center; }
+}
+
+html {
+  background-color:rgb(255, 255, 255);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color:azure;
+  padding: 0 80px 50px 100px ;
+  border: 10px solid aquamarine;
+  padding-bottom: 0%;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: aquamarine;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.menu li {
+  display: inline-block;
+  margin: 0 10px;
+  display: inline-flex;
+  justify-content: center;
+  background: aquamarine;
+}
+
+header, nav {
+  text-align: center;
+  background: white;
+  margin: 10px 0;
+  padding: 5px;
+}
+
+nav a {
+  text-decoration: none;
+  background: aquamarine;
+  border-radius: 5px;
+  color: black;
+  padding: 3px 8px;
+}
+  
+}
+
+.menu li a {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  text-transform:inherit;
+  background-color: aquamarine;
+  padding: 10px 10px;
+ 
+	
+}
+
