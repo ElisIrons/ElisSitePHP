@@ -47,12 +47,6 @@
                     <h3 style = 'text-align:center;'> Cadastro feito com sucesso! <br> Aguarde alguns instantes que será encaminhado para o e-mail cadastrado o cupom de 50% de desconto. </h3>
                 </main>
                 </div>
-
-            </main>
-        </div> 
-
-
-
-
+    
     </body>
 </html>
