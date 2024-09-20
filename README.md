@@ -29,7 +29,7 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
 - **Composer** para gerenciamento de dependências PHP
 - **XAMPP** ou outro servidor local de desenvolvimento com Apache e MySQL
 - **Google Chrome** (versão 129 ou superior)
-- **ChromeDriver** (compatível com a versão do Chrome instalada, no meu caso foi a vesão 129)
+- **ChromeDriver** (compatível com a versão do Chrome instalada, no meu caso foi a versão 129)
 - **Selenium WebDriver** (configurado como um servidor standalone)
   
 ## Instruções para Execução do Projeto
