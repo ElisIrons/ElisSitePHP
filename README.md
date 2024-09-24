@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
 
 ## Requisitos
 
-- **PHP** (versão 7.4 ou superior)
+- **PHP** (versão 8.3.11 ou superior)
 - **Composer** para gerenciamento de dependências PHP
 - **XAMPP** ou outro servidor local de desenvolvimento com Apache e MySQL
 - **Google Chrome** (versão 129 ou superior)
