@@ -69,6 +69,9 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
    ```bash
    php test/indexTest.php
    php test/almocoTest.php
+   php test/barTest.php
+   php test/cafeTest.php
+   php test/cadastroTest.php
    ```
 
 ## Funcionalidades
