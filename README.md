@@ -10,6 +10,12 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
 - Uma das páginas deve conter um formulário HTML para envio de dados e uma página para receber esses dados. **(3,0 pontos)**
 - Os dados enviados pelo formulário HTML deverão ser gravados em um arquivo JSON. **(3,0 pontos)**
 
+## Funcionalidades
+
+- Navegue pelas diferentes páginas para ver sugestões de onde comer em São José da Barra - MG.
+- Preencha o formulário de cadastro e veja seus dados armazenados em um arquivo JSON.
+
+
 ## Estrutura do Projeto
 
 - `index.php`: Página inicial, onde o usuário pode acessar as principais seções do site.
@@ -74,7 +80,7 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
    php test/cadastroTest.php
    ```
 
-## Funcionalidades
 
-- Navegue pelas diferentes páginas para ver sugestões de onde comer em São José da Barra - MG.
-- Preencha o formulário de cadastro e veja seus dados armazenados em um arquivo JSON.
+https://github.com/user-attachments/assets/faf61fb5-9607-451e-8279-7827f255d8fc
+
+
