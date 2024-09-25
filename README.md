@@ -53,7 +53,7 @@ Este projeto foi desenvolvido como parte da atividade avaliativa da disciplina d
    ```
 
 3. **Configuração do Selenium**:
-   Baixe e configure o ChromeDriver de acordo com a versão do Google Chrome instalada. Em seguida, inicie o servidor Selenium:
+   Baixe e configure o ChromeDriver de acordo com a versão do Google Chrome instalada. Em seguida, inicie o servidor Selenium dentro do seu próprio diretório:
    ```bash
    java -jar selenium-server-4.24.0.jar standalone
    ```
